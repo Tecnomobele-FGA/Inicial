@@ -4,9 +4,9 @@ O projeto Tecnomobele consiste na conversão de um veículo utilitário de trans
 
 O objetivo da proposta é desenvolver tecnologias para a eletrificação de veículos leves de transporte de passageiros sobre rodas e avançar com as pesquisas sobre seu desempenho, autonomia e infraestrutura de fornecimento de energia.
 
-O veículo será primeiramente ensaiado no dinamômetro de rolo no laboratório de sistemas automotivos no campus Gama da Universidade de Brasilia, dispensando a realização de testes na pista nas fases iniciais.
+O veículo será primeiramente ensaiado no dinamômetro de rolo no laboratório de sistemas automotivos no campus Gama da Universidade de Brasilia, dispensando a realização de testes na pista nas fases iniciais.Numa segunda fase o veículo será testado na pista com todos os novos subsistemas e banco de baterias embarcado. 
 
-Numa segunda fase o veículo será testado na pista com todos os novos subsistemas e banco de baterias embarcado. Espera-se que o projeto permita a capacitação de mão-de-obra especializada para atuar no novo segmento de veículos elétricos no Distrito Federal.
+Este veículo será usado pela Faculdade de Engenharia do campus Gama para o transporte de passageiros e será acompanhado e monitorado pelos pesquisadores do projeto, de modo a gerar dados operacionais que poderão subsidiar futuras estratégias ou políticas de eletrificação do transporte coletivo.
 
 ## Repositórios
 Cada a atividade prevista no projeto será registrada num ou mais repositórios do github. As atividades previstas no projeto são :
