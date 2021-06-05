@@ -20,6 +20,7 @@ Modelagem do veículo;
 6. Avaliação de eficiência e autonomia.
 
 ## Simulador
-Programa que calcula de forma automatica a potencia necessária e o tamanho do banco de bateria para fazer um determinado percurso num veículo.
-[Simulador](https://tecnomobele-unb.web.app/#/).
+Programa que calcula de forma automática a potencia necessária e o tamanho do banco de bateria para fazer um determinado percurso num veículo.
+
+Entra com os dados do seu veículo e o seu percurso diário no [Simulador](https://tecnomobele-unb.web.app/#/).
 
