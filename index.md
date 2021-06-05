@@ -10,14 +10,13 @@ Numa segunda fase o veículo será testado na pista com todos os novos subsistem
 
 ## Repositórios
 Cada a atividade prevista no projeto será registrada num ou mais repositórios do github. As atividades previstas no projeto são :
-
-Modelagem do veículo;
-1. Adaptação do veículo e instalação do motor elétrico;
-2. Dimensionamento do banco de baterias
-3. Implementação do subsistema de arrefecimento e outros subsistemas de apoio;
-4. Implementação de computador de bordo, barramento de comunicação e demais sistemas eletrônicos;
-5. Elaboração de estratégias de hibridização;
-6. Avaliação de eficiência e autonomia.
+1. Modelagem do veículo;
+2. Adaptação do veículo e instalação do motor elétrico;
+3. Dimensionamento do banco de baterias
+4. Implementação do subsistema de arrefecimento e outros subsistemas de apoio;
+5. Implementação de computador de bordo, barramento de comunicação e demais sistemas eletrônicos;
+6. Elaboração de estratégias de hibridização;
+7. Avaliação de eficiência e autonomia.
 
 ## Simulador
 Programa que calcula de forma automática a potencia necessária e o tamanho do banco de bateria para fazer um determinado percurso num veículo.
