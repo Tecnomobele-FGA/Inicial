@@ -1,4 +1,4 @@
-## Página web do projeto Tecnomobel-UnB FGA
+## Página web do projeto Tecnomobele-UnB FGA
 
 O projeto Tecnomobele consiste na conversão de um veículo utilitário de transporte de passageiros com motor de combustão interno para um de tração elétrica, assim como o desenvolvimento de todos os subsistemas de frenagem, arrefecimento, instrumentação e comunicação através de protocolos abertos.
 
